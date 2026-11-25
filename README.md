@@ -12,6 +12,7 @@
 | Category | Title | Date |
 | :--- | :--- | :--- |
 | **Concurrency** | [Java 21 Virtual Threads & Structured Concurrency](concurrency/java-virtual-threads.md) | 2026-11-10 |
+| **Databases** | [PostgreSQL SKIP LOCKED for Concurrent Job Queues](databases/postgres-skip-locked-queues.md) | 2026-11-25 |
 
 ---
 
