@@ -15,6 +15,7 @@
 | **Architecture** | [Idempotency Keys for Safe Distributed API Retries](architecture/idempotency-keys.md) | 2026-11-26 |
 | **Concurrency** | [Java 21 Virtual Threads & Structured Concurrency](concurrency/java-virtual-threads.md) | 2026-11-10 |
 | **Databases** | [PostgreSQL SKIP LOCKED for Concurrent Job Queues](databases/postgres-skip-locked-queues.md) | 2026-11-25 |
+| **Design Patterns** | [Circuit Breaker Pattern with Sliding Window & Half-Open Probing](design-patterns/circuit-breaker-pattern.md) | 2026-11-26 |
 | **DevOps** | [Zero-Downtime Graceful Shutdown & Connection Draining](devops/graceful-shutdown-connection-draining.md) | 2026-11-26 |
 | **Go** | [Preventing Cache Stampedes with Go `singleflight`](go/singleflight-cache-stampede.md) | 2026-11-26 |
 | **Python** | [Bounded Concurrency & Backpressure with Python `asyncio.TaskGroup`](python/asyncio-taskgroup-backpressure.md) | 2026-11-26 |
