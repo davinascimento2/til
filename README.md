@@ -13,6 +13,7 @@
 | :--- | :--- | :--- |
 | **Algorithms** | [Atomic Token Bucket Rate Limiting with Redis & Lua](algorithms/redis-token-bucket-rate-limiter.md) | 2026-11-26 |
 | **Architecture** | [Idempotency Keys for Safe Distributed API Retries](architecture/idempotency-keys.md) | 2026-11-26 |
+| **Architecture** | [Transactional Outbox Pattern for Reliable Event Publishing](architecture/transactional-outbox-pattern.md) | 2026-11-26 |
 | **Concurrency** | [Java 21 Virtual Threads & Structured Concurrency](concurrency/java-virtual-threads.md) | 2026-11-10 |
 | **Databases** | [PostgreSQL SKIP LOCKED for Concurrent Job Queues](databases/postgres-skip-locked-queues.md) | 2026-11-25 |
 | **Design Patterns** | [Circuit Breaker Pattern with Sliding Window & Half-Open Probing](design-patterns/circuit-breaker-pattern.md) | 2026-11-26 |
