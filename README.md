@@ -18,6 +18,7 @@
 | **DevOps** | [Zero-Downtime Graceful Shutdown & Connection Draining](devops/graceful-shutdown-connection-draining.md) | 2026-11-26 |
 | **Go** | [Preventing Cache Stampedes with Go `singleflight`](go/singleflight-cache-stampede.md) | 2026-11-26 |
 | **Python** | [Bounded Concurrency & Backpressure with Python `asyncio.TaskGroup`](python/asyncio-taskgroup-backpressure.md) | 2026-11-26 |
+| **TypeScript** | [Branded Types & Exhaustive Discriminated Unions for Domain Safety](typescript/branded-types-discriminated-unions.md) | 2026-11-26 |
 
 ---
 
