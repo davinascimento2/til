@@ -11,6 +11,7 @@
 
 | Category | Title | Date |
 | :--- | :--- | :--- |
+| **Architecture** | [Idempotency Keys for Safe Distributed API Retries](architecture/idempotency-keys.md) | 2026-11-26 |
 | **Concurrency** | [Java 21 Virtual Threads & Structured Concurrency](concurrency/java-virtual-threads.md) | 2026-11-10 |
 | **Databases** | [PostgreSQL SKIP LOCKED for Concurrent Job Queues](databases/postgres-skip-locked-queues.md) | 2026-11-25 |
 
